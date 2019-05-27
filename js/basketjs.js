@@ -1,0 +1,1 @@
+document.getElementById('it').innerHTML=' '+sessionStorage.getItem("item");
